@@ -12,6 +12,11 @@ function addDream() {
     }
   } 
 
+  // document.getElementById("demo").addEventListener("click", clickAway);
+
+  // function clickAway() {
+  //   document.getElementById("demo").innerHTML = "YOU CLICKED ME!";
+
 function remove(el) {
     var element = el;
     element.remove();
